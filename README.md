@@ -1,8 +1,7 @@
 # LOYAL-KAY FOOTWEAR
 
-#### A website that provide footwears for potential and existing customers
+#### A website that provide footwears for potential and existing customers to punchase their footwears products
 
-#### By _**{Redmi,Iphone,Samsung,Nokia and Infinix}**_
 
 ## Technologies Used
 
@@ -13,27 +12,28 @@
 
 ## Description
 
-_{Smart Tech makes it easier to purchase any kind of phones and electronic appliances ranging from games and so much more through its easy navigation interface.}_
+Loyal-kay makes it easier to purchase any kind of footwear and other leather product on the website for easy access ranging from lower prices to mid-range priceand so much more through its easy navigation interface.
 
 ## Setup/Installation Requirements
 
-* _This is a great place
-* _to list set up instruction_
-* _in a simple_
-* _easy-to-understand_
-* _format_
+* This is a great place
+* push the project to the a host site called Github
+* Using the index.html the first page of the web application 
 
-_{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this application depends on? We recommend deleting the project from your desktop, re-cloning the project from GitHub, and writing down all the steps necessary to get the project working again.}_
+The web application is easy to use, it has been contected to host site that enable the project to reun on the server. The application does not have any other code to depend on ? We recommend to click on the link provided to enable you to visit the web application 
 
 ## Known Bugs
 
-* _Apps overload_
-* _click on restart by holding down your power button at the top left corner_
+* The web application has some non-functioning buttons 
+
 
 ## License
 
-_{when encountered with an issue,do well to contact us on gmail  at smarttech@gmail.com to speak with our standby customer care.}_
+when encountered with an issue,do well to contact us on gmail  at daramolaolawaleaelxander@gmail.com to speak with our standby customer care.
+
+
 
 ## Contact Information
-
-_{07089153430,08128187973.}
+Name: DARAMOLA OLAWALE ALEXANDER 
+Email Address: daramolaolawalealexander@gmail.com
+09056920023, 09067713551.
