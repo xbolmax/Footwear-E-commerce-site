@@ -75,8 +75,18 @@
 }
 .about h2, .about p{
     text-align: center;
-
 }
+.con{
+    
+    text-align: center;
+    font-size: 2vmax;
+}
+.cus{
+    text-align: center;
+    border: 10vmax;
+    
+}
+
 
 
 
