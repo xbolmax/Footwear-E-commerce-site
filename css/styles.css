@@ -1,0 +1,38 @@
+
+.nav li a:hover{
+    color: orange;
+}
+.nav label{
+    font-size: 2.5vmax;
+    margin-right: 22vmax;
+}
+/* body section  */
+.body1{
+    background-image: url(../images/pexels-photo-4593811.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 50vmax;
+  
+}
+.body1 h2{
+    font-size: 6vmax;
+    color: orange;
+    text-shadow: 2px 2px black;
+    text-align: end;
+    margin-right: 10px;
+
+}
+.body1 p{
+    text-align: end;
+    font-size: 3vmax;
+    color: black;
+    text-shadow: 0.5px 0.5px rgb(171, 187, 26);
+    margin-right: 10px;
+}
+.body1 a{
+    float: right;
+    margin: 1vmax;
+    border-radius: 5px;
+}
+
+
