@@ -64,7 +64,19 @@
 .copy{
     margin-left: 25vmax;
 }
-
+/* shop section  */
+.product img{
+    width: 100%;
+}
+.product h2{
+    margin-left: 20vmax;
+    color: orange;
+    text-shadow: 2px 2px black;
+}
+.product h3{
+    color: orange;
+    text-shadow: 2px 2px black;
+}
 
 
 
